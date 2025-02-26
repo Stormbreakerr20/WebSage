@@ -1,4 +1,4 @@
-# Project-WebSage
+# WebSage
 WebSage is a RAG chatbot that extracts content from any URL, generates summaries, and enables interaction using AI models. 
 
 **Features:**
